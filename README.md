@@ -4,7 +4,7 @@
   <img src="https://shields.io" alt="Role" />
 </p>
 
-Я занимаюсь Backend и Fullstack разработкой. Создаю асинхронные сервисы, CRM-системы, агрегаторы и веб-приложения с интеграцией AI. 
+Я занимаюсь Backend и Fullstack разработкой. Создаю асинхронные сервисы, CRM-системы, агрегаторы и веб-приложения с интеграцией AI.
 
 ---
 
@@ -16,6 +16,7 @@
   <img src="https://shields.io" alt="JavaScript" />
   <img src="https://shields.io" alt="C#" />
   <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="Docker" />
 </p>
 
 ---
@@ -40,4 +41,4 @@
 ---
 
 ### 📫 Как со мной связаться:
-- **GitHub:** [Maxdev-software](https://github.com/Maxdev-software)
+- **GitHub:** [Maxdev-software](https://github.com)
