@@ -16,7 +16,7 @@
 
 ### 🧰 Мой технологический стек:
 
-<p align="center"><img src="https://github.com/memspy/Maxdev-software/blob/main/greetings.png" width="80%"/></p>
+<p align="center"><img src="https://github.com/memspy/mempspy/blob/main/greetings.png" width="80%"/></p>
 
 ---
 
