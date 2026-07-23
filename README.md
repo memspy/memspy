@@ -1,4 +1,4 @@
-# Привет! Я Максим (Maxdev-software) 👋
+# Привет, я memspy 👋
 
 Я занимаюсь Backend и Fullstack разработкой
 
@@ -16,14 +16,7 @@
 
 ### 🧰 Мой технологический стек:
 
-<p align="left">
-  <img src="https://jsdelivr.net" alt="Python" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://jsdelivr.net" alt="TypeScript" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://jsdelivr.net" alt="JavaScript" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://jsdelivr.net" alt="C#" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://jsdelivr.net" alt="C++" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://jsdelivr.net" alt="Docker" width="40" height="40" style="margin-right: 15px;" />
-</p>
+<p align="center"><img src="https://github.com/memspy/Maxdev-software/blob/main/greetings.png" width="80%"/></p>
 
 ---
 
