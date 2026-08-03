@@ -20,7 +20,7 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=memspy&theme=high-contrast)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=memspy&theme=high-contrast)
 
 ---
 ### 📫 Как со мной связаться:
