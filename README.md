@@ -1,6 +1,6 @@
-# Привет, я memspy 👋
+# Hello, i am - memspy 👋
 
-Я занимаюсь Backend и Fullstack разработкой, пробую себя в системном программировании
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;&lines=Cybersecurity+Lover;&lines=Low-Level+Enthusiast;)](https://git.io/typing-svg)
 
 ---
 
