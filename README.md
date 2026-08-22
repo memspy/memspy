@@ -1,6 +1,6 @@
 # Hello, i am - memspy 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;&lines=Cybersecurity+Lover;&lines=Low-Level+Enthusiast;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Cybersecurity+Lover;Low-Level+Enthusiast;)](https://git.io/typing-svg)
 
 ---
 
