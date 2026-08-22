@@ -26,9 +26,9 @@
 ```
 
 ### > arsenal --verified
-
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,linux,bash,git,github,gitlab,vscode,cmake,postgres,redis,arduino)](https://skillicons.dev)
 ---
-[![My skills!](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Cybersecurity+Lover;Low-Level+Enthusiast;)](https://git.io/typing-svg)
+[![My competition](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Cybersecurity+Lover;Low-Level+Enthusiast;)](https://git.io/typing-svg)
 ---
 ### > metrics --selected_systems
 
@@ -50,10 +50,24 @@ Linux CLI utility designed to instantly find, inspect, and reclaim disk space wa
 
 ---
 
+### > analytics --terminal_status
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=memspy&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://vercel.com" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.com" width="100%" />
+</p>
 
 ---
+
+### > contribution --snake
+
+<p align="center">
+  <img src="https://githubusercontent.com" alt="Contribution Snake" width="100%">
+</p>
+
 ### > contact --open_channel
 
 ```text
