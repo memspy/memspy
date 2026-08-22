@@ -1,94 +1,26 @@
+# Привет, я memspy 👋
 
-```text
- ███▄ ▄███▓▓█████  ███▄ ▄███▓  ██████  ██▓███   ▓█████▄  ▒██   ██▒
-▓██▒▀█▀ ██▒▓█   ▀ ▓██▒▀█▀ ██▒▒██    ▒ ▓██░  ██▒ ▒██▀ ██▌ ▒▒ █ █ ▒░
-▓██    ▓██░▒███   ▓██    ▓██░░ ▓██▄   ▓██░ ██▓▒ ░██   █▌ ░░  █   ░
-▒██    ▒██ ▒▓█  ▄ ▒██    ▒██   ▒   ██▒▒██▄█▓▒ ▒ ░▓█▄   ▌  ░ █ █ ▒ 
-▒██▒   ░██▒░▒████▒▒██▒   ░██▒▒██████▒▒▒██▒ ░  ░░░▒████▓  ▒██▒ ▒██▒
-░ ▒░   ░  ░░░ ▒░ ░░ ▒░   ░  ░▒ ▒▓▒ ▒ ░▒▓▒░ ░  ░  ▒▒▓  ▒  ▒▒ ░ ░▓ ░
-```
-
-<p align="center">
-  <b>Backend & Fullstack Developer</b>
-</p>
-
-<p align="center">
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Focus">
-  <img src="https://shields.io" alt="Environment">
-</p>
-
-### > whoami
-
-```text
-┌──────────────────────────────────────────────────────────────────────────┐
-│  memspy@github:~                                                         │
-│                                                                          │
-│  I design robust backend architectures, full-stack systems,              │
-│  and high-performance network utilities.                                 │
-│                                                                          │
-│  [ ROLE    ] Backend / Fullstack / System Explorer                        │
-│  [ DRIVEN  ] Optimization, concurrency, and custom architecture design │
-│                                                                          │
-│  [ MODE ] run loops // measure latency // compile with no warnings       │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+Я занимаюсь Backend и Fullstack разработкой, пробую себя в системном программировании
 
 ---
 
-### > metrics --selected_systems
-
-#### 01 // CPP-ASYNC-HTTP-SERVER `SYSTEM: PROD`
-Высокопроизводительный асинхронный HTTP-сервер на C++. Оптимизирован для работы под высокими нагрузками.
-> **Architecture:** Async I/O, Networking, System Architecture
-> **Link:** [View Repository](https://github.com)
-
-#### 02 // BUGPILOT `SYSTEM: ACTIVE`
-Веб-приложение для команд разработчиков со встроенной AI-аналитикой для трекинга багов и мониторинга кода.
-> **Architecture:** AI Analytics, Web Frameworks, Automated Diagnostics
-> **Link:** [View Repository](https://github.com)
-
-#### 03 // CRM-MONOREPO-LEAD `SYSTEM: ONLINE`
-Минималистичная и легковесная CRM-система для гибкого и эффективного управления лидами.
-> **Architecture:** Monorepo Design, Lead Processing Layer
-> **Link:** [View Repository](https://github.com)
-
-#### 04 // BOOKING-AGGREGATOR `SYSTEM: INTEGRATED`
-Масштабируемая экосистема агрегатора бронирования с десктопным приложением.
-> **Architecture:** .NET Desktop, Distributed APIs
-> **Link:** [View Repository](https://github.com)
-
-#### 05 // HIDDEN-SPACE-EXPLORER `SYSTEM: EXPERIMENTAL`
-Специализированный исследовательский проект инструментария (hsed).
-> **Architecture:** System Programming, Core Logic
-> **Link:** [View Repository](https://github.com)
+### 🚀 Основные проекты в репозиториях:
+  
+ * **[hidden-space-explorer](https://github.com/memspy/hsed)** — Высокопроизводительный асинхронный HTTP-сервер на C++.
+ * **[cpp-async-http-server](https://github.com/memspy/cpp-async-http-server)** — Высокопроизводительный асинхронный HTTP-сервер на C++.
+ * **[crm-monorepo-lead](https://github.com/memspy/crm-monorepo-lead)** — Минималистичная CRM-система для управления лидами.
+ * **[BookingAgregator-proj](https://github.com/memspy/BookingAgregator-proj)** & **[booking-aggregator-dotnet](https://github.com)** — Экосистема агрегатора бронирования с десктопным приложением на C#/.NET.
+ * **[bugpilot](https://github.com/memspy/bugpilot)** — Веб-приложение для команд разработчиков с AI-аналитикой на Python.
 
 ---
 
-### > analytics --signal_feed
-
-<p align="left">
-  <!-- Минималистичный график активности без рамки, как Grafana на референсах -->
-  <img src="https://vercel.app" width="100%" />
-</p>
-
-<br />
-
-<p align="center">
-  <!-- Карточки статистики, сливающиеся с бэкграундом -->
-  <img src="https://vercel.com" width="49%" />
-  <img src="https://vercel.com" width="49%" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,linux,git,github,gitlab,bash,docker,kubernetes,vim,postgres)](https://skillicons.dev)
 
 ---
 
-### > contact --open_channel
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=memspy&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-```text
-[ BROADCAST ] -> If you want to discuss systems architecture or networking — send a signal.
-[ TELEGRAM  ] -> t.me/cyberuzbek2
-```
-
-<p align="center">
-  <code>SYSTEM STATUS: ACTIVE // MONITORING: ON // READY FOR NEXT COMPILE</code>
-</p>
+---
+### 📫 Как со мной связаться:
+* **GitHub:** [memspy](https://github.com/memspy)
+* **Telegram** [@cyberuzbek2]
