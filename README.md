@@ -52,7 +52,7 @@ Linux CLI utility designed to instantly find, inspect, and reclaim disk space wa
 
 ### > contribution stats
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=memspy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=memspy&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### > contact --open_channel
 
