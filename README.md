@@ -4,27 +4,6 @@
 
 ---
 
-### > whoami
-
-```text
-┌──────────────────────────────────────────────────────────────────────────┐
-│  Self-taught developer from ...                                         │
-│                                                                          │
-│  I enjoy building:                                                       │
-│   • Linux Applications & Kernel Utilities (C, C++)                       │
-│   • Cybersecurity Tools (Firewalls, Network Hooks, Syscall interceptors) │
-│   • High-performance Backend Platforms & Async I/O Servers               │
-│   • AI Assistants, Computer Vision & Video AI integrations               │
-│   • Bash Automation, Network Scripting & Tech Infrastructure             │
-│                                                                          │
-│  [+] Experimenting with next-gen tooling: ClaudeCode, OpenCode, etc.     │
-│  [+] Pure tech lover: computers, low-level architecture and internet.   │
-│  [+] Hardware enthusiast: also love Soldering 🔌                         │
-│                                                                          │
-│  [ MODE ] loop execution // intercept syscalls // compile with zero warnings│
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
 ### > arsenal --verified
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,linux,bash,git,github,gitlab,vscode,cmake,postgres,redis,arduino)](https://skillicons.dev)
 ---
