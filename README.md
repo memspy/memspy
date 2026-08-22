@@ -1,26 +1,62 @@
-# Hello, i am - memspy 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Cybersecurity+Lover;Low-Level+Enthusiast;)](https://git.io/typing-svg)
-
----
-
-### 🚀 Основные проекты в репозиториях:
-  
- * **[hidden-space-explorer](https://github.com/memspy/hsed)** — Высокопроизводительный асинхронный HTTP-сервер на C++.
- * **[cpp-async-http-server](https://github.com/memspy/cpp-async-http-server)** — Высокопроизводительный асинхронный HTTP-сервер на C++.
- * **[crm-monorepo-lead](https://github.com/memspy/crm-monorepo-lead)** — Минималистичная CRM-система для управления лидами.
- * **[BookingAgregator-proj](https://github.com/memspy/BookingAgregator-proj)** & **[booking-aggregator-dotnet](https://github.com)** — Экосистема агрегатора бронирования с десктопным приложением на C#/.NET.
- * **[bugpilot](https://github.com/memspy/bugpilot)** — Веб-приложение для команд разработчиков с AI-аналитикой на Python.
+<p align="center">
+  <b>Maxim // Low-Level, Backend & Cybersec Developer</b>
+</p>
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,linux,git,github,gitlab,bash,docker,kubernetes,vim,postgres)](https://skillicons.dev)
+### > whoami
+
+```text
+┌──────────────────────────────────────────────────────────────────────────┐
+│  Self-taught developer from ...                                         │
+│                                                                          │
+│  I enjoy building:                                                       │
+│   • Linux Applications & Kernel Utilities (C, C++)                       │
+│   • Cybersecurity Tools (Firewalls, Network Hooks, Syscall interceptors) │
+│   • High-performance Backend Platforms & Async I/O Servers               │
+│   • AI Assistants, Computer Vision & Video AI integrations               │
+│   • Bash Automation, Network Scripting & Tech Infrastructure             │
+│                                                                          │
+│  [+] Experimenting with next-gen tooling: ClaudeCode, OpenCode, etc.     │
+│  [+] Pure tech lover: computers, low-level architecture and internet.   │
+│  [+] Hardware enthusiast: also love Soldering 🔌                         │
+│                                                                          │
+│  [ MODE ] loop execution // intercept syscalls // compile with zero warnings│
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+### > arsenal --verified
 
 ---
+[![My skills!](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Cybersecurity+Lover;Low-Level+Enthusiast;)](https://git.io/typing-svg)
+---
+### > metrics --selected_systems
+
+#### 01 // HSED `SECURITY & STORAGE: DEPLOYED`
+Linux CLI utility designed to instantly find, inspect, and reclaim disk space wasted by unlinked-but-open files.
+> **Architecture:** Low-Level File System Analysis, Process Tracking, C Logic
+
+#### 02 // FIREWALL_NETFILTER `CYBERSEC: KERNEL LAYER`
+Кастомная низкоуровневая система фильтрации трафика, построенная на базе Netfilter в ядре Linux.
+> **Architecture:** Kernel Space Security, Packet Interception, C
+
+#### 03 // SYSCALL-HOOKER `CYBERSEC: OFFENSIVE/DEFENSIVE`
+Инструмент для перехвата и мониторинга системных вызовов (syscalls) в Linux для анализа безопасности.
+> **Architecture:** System Call Interception, Low-Level Hooking, C
+
+#### 04 // CPP-ASYNC-HTTP-SERVER `INFRASTRUCTURE: ACTIVE`
+Высокопроизводительный асинхронный HTTP-сервер на C++, спроектированный для минимальных задержек под нагрузкой.
+> **Architecture:** Modern C++, Non-blocking Async Network I/O
+
+---
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=memspy&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-### 📫 Как со мной связаться:
-* **GitHub:** [memspy](https://github.com/memspy)
-* **Telegram** [@cyberuzbek2]
+### > contact --open_channel
+
+```text
+[ TELEGRAM  ] -> t.me/cyberuzbek2
+```
+
