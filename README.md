@@ -4,12 +4,12 @@
 
 ---
 
-### > arsenal --verified
+### > arsenal
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,linux,bash,git,github,gitlab,vscode,cmake,postgres,redis,arduino)](https://skillicons.dev)
 ---
 [![My competition](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Cybersecurity+Lover;Low-Level+Enthusiast;)](https://git.io/typing-svg)
 ---
-### > metrics --selected_systems
+### > metrics
 
 #### 01 // HSED `SECURITY & STORAGE: DEPLOYED`
 Linux CLI utility designed to instantly find, inspect, and reclaim disk space wasted by unlinked-but-open files.
@@ -33,7 +33,7 @@ Linux CLI utility designed to instantly find, inspect, and reclaim disk space wa
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=memspy&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### > contact --open_channel
+### > contact 
 
 ```text
 [ TELEGRAM  ] -> t.me/cyberuzbek2
