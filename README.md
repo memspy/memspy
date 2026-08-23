@@ -11,7 +11,7 @@
 ---
 ### > metrics
 
-#### 01 // HSED `SECURITY & STORAGE: DEPLOYED`
+#### 01 // HSED 
 Linux CLI utility designed to instantly find, inspect, and reclaim disk space wasted by unlinked-but-open files.
 > **Architecture:** Low-Level File System Analysis, Process Tracking, C Logic
 
@@ -19,11 +19,11 @@ Linux CLI utility designed to instantly find, inspect, and reclaim disk space wa
 Кастомная низкоуровневая система фильтрации трафика, построенная на базе Netfilter в ядре Linux.
 > **Architecture:** Kernel Space Security, Packet Interception, C
 
-#### 03 // SYSCALL-HOOKER `CYBERSEC: OFFENSIVE/DEFENSIVE`
+#### 03 // SYSCALL-HOOKER 
 Инструмент для перехвата и мониторинга системных вызовов (syscalls) в Linux для анализа безопасности.
 > **Architecture:** System Call Interception, Low-Level Hooking, C
 
-#### 04 // CPP-ASYNC-HTTP-SERVER `INFRASTRUCTURE: ACTIVE`
+#### 04 // CPP-ASYNC-HTTP-SERVER
 Высокопроизводительный асинхронный HTTP-сервер на C++, спроектированный для минимальных задержек под нагрузкой.
 > **Architecture:** Modern C++, Non-blocking Async Network I/O
 
