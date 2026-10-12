@@ -11,21 +11,17 @@
 ---
 ### > metrics 
 
-#### 01 // HSED https://github.com/memspy/hsed
+#### 01  hsed https://github.com/memspy/hsed
 Linux CLI utility designed to instantly find, inspect, and reclaim disk space wasted by unlinked-but-open files.
 > **Architecture:** Low-Level File System Analysis, Process Tracking, C Logic
 
-#### 02 // FIREWALL_NETFILTER `CYBERSEC: KERNEL LAYER` https://github.com/memspy/firewall_netfilter
+#### 02  firewall-netfilter `CYBERSEC: KERNEL LAYER` https://github.com/memspy/firewall_netfilter
 Кастомная низкоуровневая система фильтрации трафика, построенная на базе Netfilter в ядре Linux.
 > **Architecture:** Kernel Space Security, Packet Interception, C
 
-#### 03 // SYSCALL-HOOKER https://github.com/memspy/syscall-hooker
+#### 03  syscall-hooker https://github.com/memspy/syscall-hooker
 Инструмент для перехвата и мониторинга системных вызовов (syscalls) в Linux для анализа безопасности.
 > **Architecture:** System Call Interception, Low-Level Hooking, C
-
-#### 04 // CPP-ASYNC-HTTP-SERVER https://github.com/memspy/cpp-async-http-server
-Высокопроизводительный асинхронный HTTP-сервер на C++, спроектированный для минимальных задержек под нагрузкой.
-> **Architecture:** Modern C++, Non-blocking Async Network I/O
 
 ---
 
