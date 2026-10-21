@@ -18,12 +18,12 @@
 
 ## `/` About
 
-Backend developer focused on Linux and infrastructure. I build REST APIs, automate builds and deployments with CI/CD, and keep growing in machine learning and cybersecurity.
+Backend developer focused on Linux and infrastructure. REST APIs, CI/CD, and keep growing in machine learning and cybersecurity.
 
 <details>
 <summary>Русский</summary>
 
-Backend-разработчик с упором на Linux и инфраструктуру. Делаю REST API, автоматизирую сборку и деплой через CI/CD и развиваюсь в области ML и кибербезопасности.
+Backend-разработчик с упором на Linux и инфраструктуру. REST API, CI/CD и развиваюсь в области ML и кибербезопасности.
 
 </details>
 
