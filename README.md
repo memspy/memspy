@@ -10,7 +10,6 @@
 
 <a href="https://t.me/mysteriousspecial"><img src="https://img.shields.io/badge/Telegram-@mysteriousspecial-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://github.com/memspy"><img src="https://img.shields.io/badge/GitHub-memspy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=memspy&label=profile+views&color=3ddc97&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -55,9 +54,7 @@ Backend-разработчик с упором на Linux и инфрастру�
 
 <img src="https://streak-stats.demolab.com/?user=memspy&hide_border=true&background=070B10&ring=3DDC97&fire=38BDF8&currStreakLabel=3DDC97&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=8B98A5&dates=8B98A5" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=memspy&bg_color=070b10&color=3ddc97&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true" alt="Contribution activity graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=memspy&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
 
 </div>
 
